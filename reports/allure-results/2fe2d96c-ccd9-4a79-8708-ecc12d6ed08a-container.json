@@ -1,0 +1,1 @@
+{"uuid":"2fe2d96c-ccd9-4a79-8708-ecc12d6ed08a","name":"\"after all\" hook for Swag Labs App - Logout","children":["65715c99-712e-4e52-9893-97b981c80b6c"],"befores":[],"afters":[{"status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1794132476594,"name":"\"after all\" hook for Swag Labs App - Logout","stop":1794132477876}]}

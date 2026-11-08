@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12800","should login successfully with standard user","Swag Labs App","2026-11-08","passed","2026-11-08","","","",""
+"","14007","should sort products by Price (high to low)","Swag Labs App","2026-11-08","passed","2026-11-08","","","",""
+"","16244","verify homepage, scroll down/up, filter and logout","Home Page","2026-11-08","passed","2026-11-08","","","",""
+"","16882","should logout successfully","Swag Labs App - Logout","2026-11-08","passed","2026-11-08","","","",""
+"","9146","should display an error message when logging in with a locked out user","Swag Labs App","2026-11-08","passed","2026-11-08","","","",""
