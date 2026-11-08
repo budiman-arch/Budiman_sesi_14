@@ -5,7 +5,7 @@ import { HomeAction } from '../actions/home.action.js'
 import appHelper from '../utilities/helpers/app.helper.js'
 import credentials from '../test_data/credentials.js'
 
-describe('Swag Labs App', () => {
+describe('Swag Labs App - Sorting', () => {
     const homeAction = new HomeAction();
 
     beforeEach(async () => {

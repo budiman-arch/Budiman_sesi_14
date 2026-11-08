@@ -4,7 +4,7 @@ import loginAction from '../actions/login.action.js'
 import appHelper from '../utilities/helpers/app.helper.js'
 import credentials from '../test_data/credentials.js'
 
-describe('Swag Labs App', () => {
+describe('Swag Labs App - Login', () => {
     beforeEach(async () => {
         await appHelper.resetApp()
         await appHelper.launchApp()
